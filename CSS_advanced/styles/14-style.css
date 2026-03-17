@@ -3,7 +3,6 @@
 /* 1️⃣ Normalize CSS (Nicolas Gallagher) */
 @import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
 
-/* 2️⃣ Votre CSS précédent */
 :root {
   --color-primary: #d73953;
   --color-black: #090909;
