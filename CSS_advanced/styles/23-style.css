@@ -219,17 +219,14 @@ ul.row {
   clear: both;
 }
 
-/* Footer address in dark theme */
-[data-section-theme="dark"] .footer-address {
+.footer .footer-address {
   color: var(--text-color);
 }
 
-/* Social links in dark theme */
-[data-section-theme="dark"] .social-link {
+.footer .social-link {
   display: block;
 }
 
-/* Social link SVG children in dark theme */
-[data-section-theme="dark"] .social-link svg {
+.footer .social-link svg {
   fill: var(--text-color);
 }
